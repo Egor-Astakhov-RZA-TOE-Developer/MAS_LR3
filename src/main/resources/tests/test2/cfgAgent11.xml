@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Agent>
+    <agentName>Agent11</agentName>
+    <isInitiator>false</isInitiator>
+    <requiredAgent/>
+    <neighbours>
+        <neighbour>
+            <name>Agent9</name>
+            <weight>2</weight>
+        </neighbour>
+        <neighbour>
+            <name>Agent10</name>
+            <weight>26</weight>
+        </neighbour>
+        <neighbour>
+            <name>Agent12</name>
+            <weight>15</weight>
+        </neighbour>
+    </neighbours>
+</Agent>
